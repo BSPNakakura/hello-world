@@ -2,4 +2,3 @@ hello-world
 ===========
 
 * hoge
-* hogehoge
